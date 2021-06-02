@@ -2,7 +2,7 @@
 [notes day 1](day-1)
 * mkdir = new directory
 * rm -rf = deletes everything and doesnt stores it in the trash bean.
-* ACP = add, commit, push
+* _ACP = add, commit, push_
 
 
 
